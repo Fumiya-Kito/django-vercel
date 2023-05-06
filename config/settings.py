@@ -131,7 +131,6 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'shiftweb',
         'USER': 'shiftweb_user',
-        # 'PASSWORD': 'MUv2RGKU59hY3ls3LPOmbuNhrrkcrJ2u',
         'PASSWORD': os.getenv('POSTGRES_PASSWORD'),
         'HOST': 'dpg-chb4082k728tp9bh7ckg-a.oregon-postgres.render.com',
         'PORT': 5432,
