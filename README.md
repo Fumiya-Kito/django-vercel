@@ -2,4 +2,4 @@
 practice for deploying django project to vercel
 
 ### Live Demo
-https://django-vercel-three-khaki.vercel.app/#/profile
+https://django-vercel-three-khaki.vercel.app/
