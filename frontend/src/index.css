@@ -1,0 +1,39 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+main {
+  min-height: 80vh;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+.isClose {
+  display: none;
+}
+
+.isOpen {
+  display: block;
+}
+
+.demo__btn {
+  font-size: 1.2rem;
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  /* background-color: white; */
+  border-radius: 20px;
+  clear: black;
+}

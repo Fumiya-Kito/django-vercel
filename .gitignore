@@ -1,3 +1,6 @@
+node_modules
+# frontend/build
+
 # ENV
 /django-env
 __pycache__
